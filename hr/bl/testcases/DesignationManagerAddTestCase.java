@@ -9,7 +9,7 @@ public class DesignationManagerAddTestCase
 public static void main(String gg[])
 {
 DesignationInterface designation=new Designation();
-designation.setTitle("Officer");
+designation.setTitle("Maid");
 try
 {
 DesignationManagerInterface designationManager=DesignationManager.getDesignationManager();
